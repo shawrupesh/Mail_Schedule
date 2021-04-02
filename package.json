@@ -1,0 +1,17 @@
+{
+  "name": "Mail_Schedule",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@sendgrid/mail": "^7.4.2",
+    "dotenv": "^8.2.0",
+    "node-cron": "^3.0.0"
+  }
+}
